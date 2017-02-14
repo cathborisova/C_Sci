@@ -3,7 +3,11 @@ hr1 {
   font-family: monospace;
 }
   {
-    background-color: lightblue;
+    background-color: white;
 }
+p {
+  color: lightblue;
+}
+h3 {color: purple;}
 
 
