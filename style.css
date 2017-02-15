@@ -1,4 +1,4 @@
-hr1 {
+h1 {
   color: purple;
   font-family: monospace;
 }
@@ -14,4 +14,7 @@ ul>
   <li><a href="hobbies.asp">Hobbies</a></li>
   <li><a href="photography.asp">Photography</a></li>
 </ul>
+li {
+    display: inline;
+}
 
