@@ -13,4 +13,8 @@ h3 {color: purple;}
 li {
     display: inline;
 }
-
+li a {
+    display: block;
+    width: 60px;
+  background-color: blue;
+}
