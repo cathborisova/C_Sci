@@ -9,5 +9,9 @@ p {
   color: lightblue;
 }
 h3 {color: purple;}
-
+ul>
+  <li><a href="index.asp">Home</a></li>
+  <li><a href="hobbies.asp">Hobbies</a></li>
+  <li><a href="photography.asp">Photography</a></li>
+</ul>
 
