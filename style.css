@@ -13,12 +13,6 @@ h3 {color: purple;}
 li {
     display: inline;
 }
-li a {
-    display: block;
-    width: 60px;
-  background-color: 186FD1;
-    color: black;
-}
 .active {
     background-color: teal;
 }
