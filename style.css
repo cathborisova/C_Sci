@@ -36,10 +36,12 @@ ul {
     text-align: center;
     background-color: navy;
         border-radius: 8px;
+  border-width: 80;
+
 }
 #menu ul {
     height: auto;
-    padding: 8px 0px;
+    padding:  0px;
     margin: 0px;
 }
 #menu li { 
