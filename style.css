@@ -12,6 +12,7 @@ h3 {color: purple;}
 
 li {
     display: inline;
+  float: left;
 }
 .active {
     background-color: teal;
@@ -25,14 +26,7 @@ ul {
     padding: 0;
     overflow: hidden;
 }
-li {
-    float: left;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
+
 #menu {
     width: 550px;
     height: 35px;
