@@ -14,7 +14,7 @@ li {
     display: inline;
   float: left;
 }
-.active {
+li a:active {
     background-color: teal;
 }
 li a:hover {
