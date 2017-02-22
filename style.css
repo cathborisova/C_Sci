@@ -15,7 +15,7 @@ li {
   float: left;
 }
 li a:active {
-    background-color: teal;
+    background-color: grey;
 }
 li a:hover {
     background-color: grey;
@@ -37,6 +37,7 @@ ul {
     background-color: navy;
         border-radius: 8px;
   border-width: 80;
+  color: white;
 
 }
 #menu ul {
