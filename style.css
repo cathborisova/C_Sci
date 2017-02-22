@@ -18,7 +18,7 @@ li a:active {
     background-color: grey;
 }
 li a:hover {
-    background-color: grey;
+   color: grey;
 }
 ul {
     list-style-type: none;
