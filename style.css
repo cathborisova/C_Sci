@@ -44,5 +44,9 @@ ul {
     padding: 0px;
     margin: 0px;
 }
+.space {
+  padding-left: 30px;
+  padding-right: 30px;
+}
 
 
