@@ -11,6 +11,7 @@ h3 {color: purple;}
 li {
     display: inline;
   float: left;
+  padding: 10px;
   
 }
 li a:active {
