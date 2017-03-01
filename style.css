@@ -1,12 +1,23 @@
 h1 {
   color: purple;
   font-family: monospace;
+  text-align: center;
+  font-size: 50px
 }
 
 p {
   color: navy;
+  font-family: monospace;
+  text-align: center;
+    font-size: 50px;
 }
-h3 {color: purple;}
+h3 {
+  color: purple;
+  font-family: monospace;
+  text-align: center;
+  font-size: 50 px;
+}
+  
 
 li {
     display: inline;
