@@ -52,4 +52,5 @@ ul {
 img {
   border-width: 40px;
   border-color: navy;
+  border-style: solid;
 }
