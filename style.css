@@ -49,4 +49,7 @@ ul {
   padding-right: 30px;
 }
 
-
+img {
+  border: 40px;
+  border-color: navy;
+}
