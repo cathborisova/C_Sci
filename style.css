@@ -65,3 +65,8 @@ ul {
   border-color: #99c2ff;
   border-style: solid;
 }
+.table {
+  color: navy;
+  font-family: monospace;
+  font-size: 20px;
+}
